@@ -65,3 +65,5 @@ Leeds, UK; supporting students learning C/C++.
 # Publications
 
 * [Various publications via *researchgate.net*](https://www.researchgate.net/researcher/13867625_NJ_Pilgrim)
+
+* [Various publications via *researcherid.com*](http://www.researcherid.com/rid/D-1548-2011)
