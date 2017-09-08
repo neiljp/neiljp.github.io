@@ -3,6 +3,7 @@ title: The Github Home of Neil J Pilgrim
 email: "Neil.Pilgrim@kepier.clara.net"
 github: "https://github.com/neiljp"
 linkedin: "https://www.linkedin.com/in/neil-pilgrim/"
+osm: "https://www.openstreetmap.org/user/neiljp"
 ---
 **I am currently seeking employment in the Portland, OR area.**
 
@@ -54,6 +55,8 @@ Leeds, UK; supporting students learning C/C++.
 
 * **Science Educator in Design Lab** (from Nov 2016, 139+ hours), Oregon Museum of Science & Industry ([OMSI](http://omsi.edu)), Portland, OR.
 ([Details](https://omsi.edu/sites/default/files/scienceeducatorvolunteer.pdf))
+
+* **OpenStreetMap Contributor** (from Feb 2012, 4,000+ edits; attended multiple mapathons & conferences), ([OSM user profile]({{page.osm}}))
 
 # Academic History
 
