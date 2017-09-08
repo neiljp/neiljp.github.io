@@ -2,6 +2,7 @@
 title: The Github Home of Neil J Pilgrim
 email: "Neil.Pilgrim@kepier.clara.net"
 github: "https://github.com/neiljp"
+linkedin: "https://www.linkedin.com/in/neil-pilgrim/"
 ---
 **I am currently seeking employment in the Portland, OR area.**
 
@@ -11,8 +12,8 @@ from you.
 # Contact details
 
 * **Email**: [{{page.email}}](mailto:{{page.email}})
-
 * **GitHub**: [{{page.github}}]({{page.github}})
+* **LinkedIn**: [{{page.linkedin}}]({{page.linkedin}})
 
 # Skillsets
 
